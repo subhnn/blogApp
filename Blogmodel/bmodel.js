@@ -8,7 +8,7 @@ const BlogSchema=mongoose.Schema
     Age:String,
     Adress:String,
     phone:String,
-    Email:String,
+    email:String,
     Password:String
 }
 )
